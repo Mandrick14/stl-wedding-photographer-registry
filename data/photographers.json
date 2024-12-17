@@ -1,0 +1,38 @@
+{
+  "photographers": [
+    {
+      "id": "1",
+      "name": "Sarah Anderson",
+      "portfolio": "https://example.com/sarah",
+      "contact": "sarah@stlweddings.com",
+      "tags": ["Traditional", "Fine Art"],
+      "priceRange": "$2000-3000",
+      "description": "Capturing timeless moments with an artistic touch. Specializing in natural light photography and candid moments.",
+      "featuredImage": "https://images.unsplash.com/photo-1583939003579-730e3918a45a",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1519741497674-611481863552",
+        "https://images.unsplash.com/photo-1511285560929-80b456fea0bc",
+        "https://images.unsplash.com/photo-1519225421980-715cb0215aed"
+      ],
+      "location": "St. Louis, MO",
+      "availability": true
+    },
+    {
+      "id": "2",
+      "name": "Michael Chen",
+      "portfolio": "https://example.com/michael",
+      "contact": "michael@stlweddings.com",
+      "tags": ["Photojournalistic", "Contemporary"],
+      "priceRange": "$3000-4000",
+      "description": "Documentary-style wedding photography that tells your unique story through genuine moments.",
+      "featuredImage": "https://images.unsplash.com/photo-1537633552985-df8429e8048b",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1519225421980-715cb0215aed",
+        "https://images.unsplash.com/photo-1469371670807-013ccf25f16a",
+        "https://images.unsplash.com/photo-1522673607200-164d1b6ce486"
+      ],
+      "location": "St. Louis, MO",
+      "availability": true
+    }
+  ]
+}

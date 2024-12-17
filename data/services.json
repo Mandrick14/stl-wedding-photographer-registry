@@ -1,0 +1,178 @@
+{
+  "services": [
+    {
+      "id": "full-wedding",
+      "title": "Full Wedding Day Coverage",
+      "description": "Comprehensive photography coverage of your entire wedding day, from preparation to reception",
+      "benefits": [
+        "Complete documentation of your special day",
+        "Multiple photographers for different perspectives",
+        "Coverage of both formal and candid moments",
+        "High-resolution digital images",
+        "Online gallery for sharing with family and friends"
+      ],
+      "pricing": {
+        "starter": 2500,
+        "premium": 3500,
+        "luxury": 5000
+      },
+      "timeframes": {
+        "coverage": "8-12 hours",
+        "delivery": "4-6 weeks"
+      },
+      "prerequisites": [
+        "50% deposit to secure date",
+        "Signed contract",
+        "Pre-wedding consultation"
+      ],
+      "targetAudience": [
+        "Couples planning traditional weddings",
+        "Those wanting complete documentary coverage",
+        "Clients valuing high-quality photography"
+      ],
+      "uniqueFeatures": [
+        "Second photographer included",
+        "Custom timeline planning",
+        "Engagement session included",
+        "Professional editing and retouching"
+      ],
+      "qualifications": [
+        "Professional wedding photography certification",
+        "5+ years experience",
+        "Backup equipment guaranteed",
+        "Liability insurance"
+      ],
+      "sampleDeliverables": [
+        "500+ edited high-resolution images",
+        "Online gallery with downloading",
+        "Print release",
+        "Wedding album options"
+      ]
+    },
+    {
+      "id": "engagement",
+      "title": "Engagement Session",
+      "description": "Pre-wedding photo session to capture your love story in a relaxed environment",
+      "benefits": [
+        "Get comfortable in front of the camera",
+        "Create save-the-date images",
+        "Professional photos for wedding website",
+        "Practice working with your photographer"
+      ],
+      "pricing": {
+        "basic": 500,
+        "extended": 750
+      },
+      "timeframes": {
+        "coverage": "1-2 hours",
+        "delivery": "2 weeks"
+      },
+      "prerequisites": [
+        "Location selection",
+        "Weather date backup",
+        "Outfit consultation"
+      ],
+      "targetAudience": [
+        "Engaged couples",
+        "Those wanting casual pre-wedding photos",
+        "Couples creating save-the-dates"
+      ],
+      "uniqueFeatures": [
+        "Multiple location options",
+        "Outfit changes included",
+        "Digital delivery",
+        "Print options available"
+      ],
+      "qualifications": [
+        "Portrait photography expertise",
+        "Location scouting experience",
+        "Natural light specialist"
+      ],
+      "sampleDeliverables": [
+        "50+ edited images",
+        "Online gallery",
+        "Print release",
+        "Social media copies"
+      ]
+    },
+    {
+      "id": "destination",
+      "title": "Destination Wedding Photography",
+      "description": "Professional photography services for weddings outside the St. Louis area",
+      "benefits": [
+        "Experienced in various locations and lighting conditions",
+        "Travel logistics handled professionally",
+        "Local venue research and scouting",
+        "Extended coverage options"
+      ],
+      "pricing": {
+        "domestic": 4000,
+        "international": 6000
+      },
+      "timeframes": {
+        "coverage": "2-3 days",
+        "delivery": "6-8 weeks"
+      },
+      "prerequisites": [
+        "Travel arrangements confirmed 3 months prior",
+        "Venue coordination",
+        "Location permits if required"
+      ],
+      "targetAudience": [
+        "Couples planning destination weddings",
+        "Destination elopements",
+        "Luxury wedding clients"
+      ],
+      "uniqueFeatures": [
+        "Location scouting included",
+        "Travel costs included",
+        "Extended coverage options",
+        "Local vendor coordination"
+      ],
+      "qualifications": [
+        "International wedding experience",
+        "Multiple language capabilities",
+        "Destination wedding certification"
+      ],
+      "sampleDeliverables": [
+        "700+ edited images",
+        "Highlight slideshow",
+        "Premium wedding album",
+        "Travel blog feature"
+      ]
+    }
+  ],
+  "seasonalOfferings": [
+    {
+      "id": "fall-mini",
+      "title": "Fall Mini Sessions",
+      "description": "Short engagement sessions during peak fall colors",
+      "availability": "September-November",
+      "pricing": 300
+    },
+    {
+      "id": "holiday-cards",
+      "title": "Holiday Card Photos",
+      "description": "Festive engagement photos perfect for holiday cards",
+      "availability": "October-December",
+      "pricing": 250
+    }
+  ],
+  "addOns": [
+    {
+      "id": "album",
+      "title": "Premium Wedding Album",
+      "price": 800
+    },
+    {
+      "id": "prints",
+      "title": "Professional Print Package",
+      "price": 400
+    },
+    {
+      "id": "video",
+      "title": "Highlight Reel Add-on",
+      "price": 1200
+    }
+  ]
+}

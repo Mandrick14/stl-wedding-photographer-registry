@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "How to Choose Your Perfect Wedding Photographer",
+      "slug": "how-to-choose-wedding-photographer",
+      "excerpt": "A comprehensive guide to finding and selecting the right photographer for your special day.",
+      "content": "Choosing the right wedding photographer is one of the most important decisions you'll make for your wedding day. Your photographs will be the lasting memories of your special moments...",
+      "author": "Sarah Anderson",
+      "date": "2024-03-01",
+      "category": "Wedding Tips",
+      "tags": ["Photography", "Wedding Planning", "Tips"],
+      "featuredImage": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92",
+      "readTime": 5
+    },
+    {
+      "id": "2",
+      "title": "Top Wedding Venues in St. Louis",
+      "slug": "top-wedding-venues-st-louis",
+      "excerpt": "Discover the most beautiful and unique wedding venues in the St. Louis area.",
+      "content": "St. Louis offers a diverse range of stunning wedding venues, from historic buildings to modern spaces...",
+      "author": "Michael Chen",
+      "date": "2024-02-28",
+      "category": "Venues",
+      "tags": ["Venues", "St. Louis", "Wedding Planning"],
+      "featuredImage": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3",
+      "readTime": 6
+    }
+  ]
+}
